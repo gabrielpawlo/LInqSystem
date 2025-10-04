@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SoundX-API/1.0.0": {
+        "runtime": {
+          "SoundX-API.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoundX-API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

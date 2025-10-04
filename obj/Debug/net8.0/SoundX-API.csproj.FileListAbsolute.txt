@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\bin\Debug\net8.0\SoundX-API.exe
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\bin\Debug\net8.0\SoundX-API.deps.json
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\bin\Debug\net8.0\SoundX-API.runtimeconfig.json
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\bin\Debug\net8.0\SoundX-API.dll
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\bin\Debug\net8.0\SoundX-API.pdb
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\obj\Debug\net8.0\SoundX-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\obj\Debug\net8.0\SoundX-API.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\obj\Debug\net8.0\SoundX-API.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\obj\Debug\net8.0\SoundX-API.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\obj\Debug\net8.0\SoundX-API.dll
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\obj\Debug\net8.0\refint\SoundX-API.dll
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\obj\Debug\net8.0\SoundX-API.pdb
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\obj\Debug\net8.0\SoundX-API.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Ambientes\C#\SoundX-API\SoundX-API\obj\Debug\net8.0\ref\SoundX-API.dll
